@@ -1,0 +1,7 @@
+{
+  "name": "Savie Royal Catering & Events",
+  "description": "A sophisticated event planning and catering platform by Savie Royal, specialized in funerals, memorials, and premium gatherings. Features a booking system designed for AI automation and an administrative dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
